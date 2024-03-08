@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.imagem{
+        width: 352px;
+        height: 272px;
+        margin: 140px 565px;
+}
